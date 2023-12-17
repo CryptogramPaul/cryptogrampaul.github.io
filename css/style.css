@@ -1,0 +1,36 @@
+.bgimage{
+	background-image: url('../image/image2.jpg');
+	height:100vh;
+	width: 100%;
+	background-size:cover;
+	background-repeat: no-repeat;
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+.hero_title {
+    font-size: 4.5rem;
+}
+.hero_desc {
+    font-size: 2rem;
+}
+.hero-text {
+    /*text-align: center;*/
+    /*padding-left: 5re;*/
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+/* display background color black on navbar scroll */
+.navbarDark {
+    background-color: black;
+}
+/*#aboutme, #services, #project, #contact {
+    margin-top: 4rem;
+    padding-top: 4rem;
+}
+#contact {
+    padding-bottom: 4rem;
+}*/
