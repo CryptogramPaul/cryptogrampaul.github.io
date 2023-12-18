@@ -1,5 +1,5 @@
 .bgimage{
-	background-image: url('./Image/image2.jpg');
+	background-image: url('../Image/image2.jpg');
 	height:100vh;
 	width: 100%;
 	background-size:cover;
